@@ -1,0 +1,319 @@
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\bin\Debug\Record.db
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\bin\Debug\Record.exe.config
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\bin\Debug\Record.exe
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\bin\Debug\Record.pdb
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\obj\Debug\Record.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\obj\Debug\AddStudents.g.cs
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\obj\Debug\Record_Content.g.cs
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\obj\Debug\Record_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\obj\Debug\Record_MarkupCompile.lref
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\obj\Debug\AddStudents.baml
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\obj\Debug\Record.g.resources
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\obj\Debug\Record.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\obj\Debug\Record.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\obj\Debug\Record.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\obj\Debug\Record.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\obj\Debug\Record.exe
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\obj\Debug\Record.pdb
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\obj\Debug\AddGroup.g.cs
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\obj\Debug\AddGroup.baml
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\obj\Debug\AddStudent.g.cs
+C:\Users\Administrator\Desktop\Практика\Record_1-main-master\obj\Debug\AddStudent.baml
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\bin\Debug\Record.db
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\bin\Debug\Record.exe.config
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\bin\Debug\Record.exe
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\bin\Debug\Record.pdb
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\AddGroup.g.cs
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\AddStudent.g.cs
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\AddStudents.g.cs
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\Window1.g.cs
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\Record_Content.g.cs
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\Record_MarkupCompile.cache
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\Record_MarkupCompile.lref
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\AddGroup.baml
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\AddStudent.baml
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\AddStudents.baml
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\Window1.baml
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\Record.g.resources
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\Record.Properties.Resources.resources
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\Record.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\Record.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\Record.csproj.CopyComplete
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\Record.exe
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\Record.pdb
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\Print.g.cs
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\Print.baml
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\bin\Debug\Record11.db
+C:\Users\User\Desktop\Новая папка (11)\Record_3-main\obj\Debug\Record.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Практика\Record_4-main\bin\Debug\Record.db
+C:\Users\Administrator\Desktop\Практика\Record_4-main\bin\Debug\Record11.db
+C:\Users\Administrator\Desktop\Практика\Record_4-main\bin\Debug\Record.exe.config
+C:\Users\Administrator\Desktop\Практика\Record_4-main\bin\Debug\Record.exe
+C:\Users\Administrator\Desktop\Практика\Record_4-main\bin\Debug\Record.pdb
+C:\Users\Administrator\Desktop\Практика\Record_4-main\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\Практика\Record_4-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\Практика\Record_4-main\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\Практика\Record_4-main\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Administrator\Desktop\Практика\Record_4-main\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\Desktop\Практика\Record_4-main\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\Практика\Record_4-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\Практика\Record_4-main\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\Record.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\AddGroup.g.cs
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\AddStudent.g.cs
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\AddStudents.g.cs
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\Print.g.cs
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\Window1.g.cs
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\Record_Content.g.cs
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\Record_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\Record_MarkupCompile.lref
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\AddGroup.baml
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\AddStudent.baml
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\AddStudents.baml
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\Print.baml
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\Window1.baml
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\Record.g.resources
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\Record.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\Record.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\Record.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\Record.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\Record.exe
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\Record.pdb
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\PrintInfo.g.cs
+C:\Users\Administrator\Desktop\Практика\Record_4-main\obj\Debug\PrintInfo.baml
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\bin\Debug\Record11.db
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\bin\Debug\Record.exe.config
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\bin\Debug\Record.exe
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\bin\Debug\Record.pdb
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\AddGroup.g.cs
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\AddStudent.g.cs
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\AddStudents.g.cs
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\Print.g.cs
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\PrintInfo.g.cs
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\Window1.g.cs
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\Record_Content.g.cs
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\Record_MarkupCompile.cache
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\Record_MarkupCompile.lref
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\AddGroup.baml
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\AddStudent.baml
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\AddStudents.baml
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\Print.baml
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\PrintInfo.baml
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\Window1.baml
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\Record.g.resources
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\Record.Properties.Resources.resources
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\Record.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\Record.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\Record.csproj.CopyComplete
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\Record.exe
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\Record.pdb
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\bin\Debug\Record.db
+C:\Users\User\Desktop\Новая папка (11)\Record_4-main\obj\Debug\Record.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Record_5\bin\Debug\Record11.db
+C:\Users\Administrator\source\repos\Record_5\bin\Debug\Record.db
+C:\Users\Administrator\source\repos\Record_5\bin\Debug\Record.exe.config
+C:\Users\Administrator\source\repos\Record_5\bin\Debug\Record.exe
+C:\Users\Administrator\source\repos\Record_5\bin\Debug\Record.pdb
+C:\Users\Administrator\source\repos\Record_5\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\Record_5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\Record_5\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\source\repos\Record_5\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Administrator\source\repos\Record_5\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\source\repos\Record_5\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\Record_5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\Record_5\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\Record.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\AddGroup.g.cs
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\AddStudent.g.cs
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\AddStudents.g.cs
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\Print.g.cs
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\PrintInfo.g.cs
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\Window1.g.cs
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\Record_Content.g.cs
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\Record_MarkupCompile.cache
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\Record_MarkupCompile.lref
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\AddGroup.baml
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\AddStudent.baml
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\AddStudents.baml
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\Print.baml
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\PrintInfo.baml
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\Window1.baml
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\Record.g.resources
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\Record.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\Record.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\Record.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\Record.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\Record.exe
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\Record.pdb
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\AddStudentInMonth.g.cs
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\AddStudentInMonth.baml
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\ObratConn.g.cs
+C:\Users\Administrator\source\repos\Record_5\obj\Debug\ObratConn.baml
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\bin\Debug\Record11.db
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\bin\Debug\Record.db
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\bin\Debug\Record.exe.config
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\bin\Debug\Record.exe
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\bin\Debug\Record.pdb
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\bin\Debug\EntityFramework.dll
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\bin\Debug\System.Data.SQLite.dll
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\bin\Debug\EntityFramework.xml
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\bin\Debug\System.Data.SQLite.xml
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\Record.csproj.AssemblyReference.cache
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\AddGroup.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\AddStudent.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\AddStudentInMonth.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\AddStudents.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\MainWindow.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\ObratConn.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\Print.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\PrintInfo.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\Window1.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\App.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\Record_Content.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\Record_MarkupCompile.cache
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\Record_MarkupCompile.lref
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\AddGroup.baml
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\AddStudent.baml
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\AddStudentInMonth.baml
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\AddStudents.baml
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\MainWindow.baml
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\ObratConn.baml
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\Print.baml
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\PrintInfo.baml
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\Window1.baml
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\Record.g.resources
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\Record.Properties.Resources.resources
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\Record.csproj.GenerateResource.cache
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\Record.csproj.CoreCompileInputs.cache
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\Record.csproj.CopyComplete
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\Record.exe
+C:\Users\студент.STD5\Desktop\Учет периферии\Record_3-main\obj\Debug\Record.pdb
+C:\Users\Administrator\source\repos\Record_3-main\bin\Debug\Record11.db
+C:\Users\Administrator\source\repos\Record_3-main\bin\Debug\Record.db
+C:\Users\Administrator\source\repos\Record_3-main\bin\Debug\Record.exe.config
+C:\Users\Administrator\source\repos\Record_3-main\bin\Debug\Record.exe
+C:\Users\Administrator\source\repos\Record_3-main\bin\Debug\Record.pdb
+C:\Users\Administrator\source\repos\Record_3-main\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\Record_3-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\Record_3-main\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\source\repos\Record_3-main\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Administrator\source\repos\Record_3-main\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\source\repos\Record_3-main\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\Record_3-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\Record_3-main\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\Record.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\AddGroup.g.cs
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\AddStudent.g.cs
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\AddStudentInMonth.g.cs
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\AddStudents.g.cs
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\ObratConn.g.cs
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\Print.g.cs
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\PrintInfo.g.cs
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\Window1.g.cs
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\Record_Content.g.cs
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\Record_MarkupCompile.cache
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\Record_MarkupCompile.lref
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\AddGroup.baml
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\AddStudent.baml
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\AddStudentInMonth.baml
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\AddStudents.baml
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\ObratConn.baml
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\Print.baml
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\PrintInfo.baml
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\Window1.baml
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\Record.g.resources
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\Record.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\Record.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\Record.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\Record.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\Record.exe
+C:\Users\Administrator\source\repos\Record_3-main\obj\Debug\Record.pdb
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\bin\Debug\Record11.db
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\bin\Debug\Record.db
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\bin\Debug\Record.exe.config
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\bin\Debug\Record.exe
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\bin\Debug\Record.pdb
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\bin\Debug\EntityFramework.dll
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\bin\Debug\System.Data.SQLite.dll
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\bin\Debug\EntityFramework.xml
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\bin\Debug\System.Data.SQLite.xml
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\Record.csprojAssemblyReference.cache
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\AddGroup.g.cs
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\AddStudent.g.cs
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\AddStudentInMonth.g.cs
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\AddStudents.g.cs
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\ObratConn.g.cs
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\Print.g.cs
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\PrintInfo.g.cs
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\Window1.g.cs
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\Record_Content.g.cs
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\Record_MarkupCompile.cache
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\Record_MarkupCompile.lref
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\AddGroup.baml
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\AddStudent.baml
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\AddStudentInMonth.baml
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\AddStudents.baml
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\ObratConn.baml
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\Print.baml
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\PrintInfo.baml
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\Window1.baml
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\Record.g.resources
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\Record.Properties.Resources.resources
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\Record.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\Record.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\Record.csproj.CopyComplete
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\Record.exe
+C:\Users\Студент\Desktop\2021-2022\СИП-213\Record_3_2-main\obj\Debug\Record.pdb

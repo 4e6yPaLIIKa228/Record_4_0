@@ -1,0 +1,226 @@
+﻿<Window x:Class="Record.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Record"
+        mc:Ignorable="d"
+        Title="MainWindow"  Height="900" Width="1600" WindowState="Normal" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="80"/>
+            <RowDefinition/>
+            <RowDefinition Height="153"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"></ColumnDefinition>
+                <ColumnDefinition Width="200"></ColumnDefinition>
+                <ColumnDefinition Width="200"></ColumnDefinition>
+
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Column="0"   FontWeight="Bold"  FontSize="18" Text="Группы" Margin="0,-55,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <ComboBox Grid.Column="0"   x:Name="CbGroups" Margin="10,32,10,20"  HorizontalAlignment="Center" VerticalAlignment="Center" Width="150" Height="28" FontWeight="Bold" FontSize="16" SelectionChanged="CbGroups_SelectionChanged"  />
+            <TextBlock Grid.Column="1"   FontWeight="Bold"  FontSize="18" Text="Месяцы" Margin="0,-55,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <ComboBox Grid.Column="1"   x:Name="CbMonth" Margin="10,32,10,20"  HorizontalAlignment="Center" VerticalAlignment="Center" Width="150" Height="28" FontWeight="Bold" FontSize="16" SelectionChanged="CbMonth_SelectionChanged"  />
+            <TextBlock Grid.Column="2"   FontWeight="Bold"  FontSize="18" Text="Годы" Margin="0,-55,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <ComboBox Grid.Column="2"   x:Name="CbYears" Margin="10,32,10,20"  HorizontalAlignment="Center" VerticalAlignment="Center" Width="150" Height="28" FontWeight="Bold" FontSize="16" SelectionChanged="CbYears_SelectionChanged"  />
+            <Button x:Name="BtSearch" Content="Найти" Grid.Column="8" HorizontalAlignment="Left" Margin="10,32,0,0" VerticalAlignment="Top" Width="61" Height="38" Click="BtSearch_Click"/>
+            <Button x:Name="BtSave" Content="Сохранить" Grid.Column="8" HorizontalAlignment="Left" Margin="100,32,0,0" VerticalAlignment="Top" Width="61" Height="38" Click="BtSave_Click"/>
+            <Button x:Name="BtAdd" Content="Добавить" Grid.Column="8" HorizontalAlignment="Left" Margin="190,32,0,0" VerticalAlignment="Top" Width="61" Height="38" Click="BtAdd_Click"/>
+            <!--<TextBox x:Name="TbNumber"  Grid.Column="8" Margin="10,-5,0,0" TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center" MinWidth="219" MinHeight="22" VerticalContentAlignment="Center" IsReadOnly="True"/>-->
+            <Button x:Name="w" Content="Отчет" Grid.Column="3" HorizontalAlignment="Left" Margin="272,32,0,0" VerticalAlignment="Top" Width="60" Height="38" Click="w_Click"/>
+            <Button x:Name="Obrat" Content="Обратная свзяь" Grid.Column="3" HorizontalAlignment="Left" Margin="350,32,0,0" VerticalAlignment="Top" Width="113" Height="38" Click="Obrat_Click" />
+            <!--IsEditable="True"  StaysOpenOnEdit="True"-->
+        </Grid>
+        <DataGrid x:Name="DGStudents" Grid.Column="0" RowHeight="30"   Grid.Row="2" Grid.RowSpan="1"  Margin="5" ColumnWidth="*" CanUserAddRows="False"  AutoGenerateColumns="False" MinColumnWidth="25" RowHeaderWidth="0" CellEditEnding="DGStudents_CellEditEnding" SelectedCellsChanged="DGStudents_SelectedCellsChanged"  >
+            <DataGrid.Columns>
+                <!--<DataGridTextColumn Header="ID" Width="15" Binding="{Binding ID}"  />-->
+                <DataGridTextColumn Header="ФИО" IsReadOnly="True"  Width="155"  Binding="{Binding NSM}"/>
+                <DataGridTextColumn Header="1"   Binding="{Binding Day1,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="2"   Binding="{Binding Day2,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="3"   Binding="{Binding Day3,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="4"   Binding="{Binding Day4,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="5"   Binding="{Binding Day5,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="6"   Binding="{Binding Day6,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="7"   Binding="{Binding Day7,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="8"   Binding="{Binding Day8,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="9"   Binding="{Binding Day9,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="10"  Binding="{Binding Day10,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="11"  Binding="{Binding Day11,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="12"  Binding="{Binding Day12,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="13"  Binding="{Binding Day13,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="14"  Binding="{Binding Day14,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="15"  Binding="{Binding Day15,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="16"  Binding="{Binding Day16,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="17"  Binding="{Binding Day17,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="18"  Binding="{Binding Day18,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="19"  Binding="{Binding Day19,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="20"  Binding="{Binding Day20,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="21"  Binding="{Binding Day21,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="22"  Binding="{Binding Day22,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="23"  Binding="{Binding Day23,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="24"  Binding="{Binding Day24,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="25"  Binding="{Binding Day25,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="26"  Binding="{Binding Day26,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="27"  Binding="{Binding Day27,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="28"  Binding="{Binding Day28,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="29"  Binding="{Binding Day29,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="30"  Binding="{Binding Day30,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="31"  Binding="{Binding Day31,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="П"  Binding="{Binding SumP,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="Н"  Binding="{Binding SumH,UpdateSourceTrigger=PropertyChanged}"/>
+                <DataGridTextColumn Header="Б"  Binding="{Binding SumB,UpdateSourceTrigger=PropertyChanged}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Grid  Grid.Row="3">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="35"/>
+                <RowDefinition Height="35"/>
+                <RowDefinition Height="35"/>
+                <RowDefinition Height="35"/>
+                <RowDefinition Height="1"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="160"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="45*"></ColumnDefinition>
+                <ColumnDefinition Width="131"></ColumnDefinition>
+
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <TextBox  Grid.Row="0" IsReadOnly="True" Text="Болеют" Width="150" Margin="0,0,5,0" FontSize="20" HorizontalAlignment="Right" />
+            <TextBox  Grid.Row="1" IsReadOnly="True" Text="Причина" Width="150" Margin="0,0,5,0" FontSize="20" HorizontalAlignment="Right" />
+            <TextBox  Grid.Row="2" IsReadOnly="True" Text="Незаконно" Width="150" Margin="0,0,5,0" FontSize="20" HorizontalAlignment="Right"  />
+            <TextBox  Grid.Row="3" IsReadOnly="True" Text="Присутствует" Width="150"  FontSize="20" Margin="0,0,5,0" HorizontalAlignment="Right"  />
+
+           
+
+            <Border VerticalAlignment="Center" Grid.ColumnSpan="31" Grid.Column="1" Grid.Row="0" Margin="0,0,0,0" >
+                <Viewbox HorizontalAlignment="Left">
+                    <TextBox  Grid.Row="0" Grid.Column="0" IsReadOnly="True" Name="B1"  Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+                </Viewbox>
+            </Border>
+
+            <!--<TextBox  Grid.Row="0" Grid.Column="2" IsReadOnly="True" Name="B2" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="3" IsReadOnly="True" Name="B3" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="4" IsReadOnly="True" Name="B4" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="5" IsReadOnly="True" Name="B5" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="6" IsReadOnly="True" Name="B6" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="7" IsReadOnly="True" Name="B7" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="8" IsReadOnly="True" Name="B8" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="9" IsReadOnly="True" Name="B9" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="10" IsReadOnly="True" Name="B10" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="11" IsReadOnly="True" Name="B11" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="12" IsReadOnly="True" Name="B12" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="13" IsReadOnly="True" Name="B13" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="14" IsReadOnly="True" Name="B14" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="15" IsReadOnly="True" Name="B15" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="16" IsReadOnly="True" Name="B16" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="17" IsReadOnly="True" Name="B17" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="18" IsReadOnly="True" Name="B18" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="19" IsReadOnly="True" Name="B19" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="20" IsReadOnly="True" Name="B20" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="21" IsReadOnly="True" Name="B21" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="22" IsReadOnly="True" Name="B22" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="23" IsReadOnly="True" Name="B23" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="24" IsReadOnly="True" Name="B24" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="25" IsReadOnly="True" Name="B25" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="26" IsReadOnly="True" Name="B26" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="27" IsReadOnly="True" Name="B27" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="28" IsReadOnly="True" Name="B28" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="29" IsReadOnly="True" Name="B29" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="30" IsReadOnly="True" Name="B30" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="0" Grid.Column="31" IsReadOnly="True" Name="B31" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />-->
+
+            
+            <!--<TextBox  Grid.Row="1" Grid.Column="1" IsReadOnly="True" Name="P1" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="2" IsReadOnly="True" Name="P2" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="3" IsReadOnly="True" Name="P3" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="4" IsReadOnly="True" Name="P4" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="5" IsReadOnly="True" Name="P5" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="6" IsReadOnly="True" Name="P6" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="7" IsReadOnly="True" Name="P7" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="8" IsReadOnly="True" Name="P8" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="9" IsReadOnly="True" Name="P9" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="10" IsReadOnly="True" Name="P10" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="11" IsReadOnly="True" Name="P11" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="12" IsReadOnly="True" Name="P12" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="13" IsReadOnly="True" Name="P13" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="14" IsReadOnly="True" Name="P14" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="15" IsReadOnly="True" Name="P15" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="16" IsReadOnly="True" Name="P16" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="17" IsReadOnly="True" Name="P17" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="18" IsReadOnly="True" Name="P18" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="19" IsReadOnly="True" Name="P19" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="20" IsReadOnly="True" Name="P20" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="21" IsReadOnly="True" Name="P21" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="22" IsReadOnly="True" Name="P22" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="23" IsReadOnly="True" Name="P23" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="24" IsReadOnly="True" Name="P24" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="25" IsReadOnly="True" Name="P25" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="26" IsReadOnly="True" Name="P26" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="27" IsReadOnly="True" Name="P27" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="28" IsReadOnly="True" Name="P28" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="29" IsReadOnly="True" Name="P29" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="30" IsReadOnly="True" Name="P30" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />
+            <TextBox  Grid.Row="1" Grid.Column="31" IsReadOnly="True" Name="P31" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />-->
+
+            <Border VerticalAlignment="Center" Grid.ColumnSpan="31" Grid.Column="1" Grid.Row="1" Margin="0,0,0,0" >
+                <Viewbox HorizontalAlignment="Left">
+                    <TextBox  Grid.Row="1" Grid.Column="1" IsReadOnly="True" Name="P1"  Margin="0,0,0,0" FontSize="20" TextAlignment="Center"/>
+                </Viewbox>
+            </Border>
+
+
+            <Border VerticalAlignment="Center" Grid.ColumnSpan="31" Grid.Column="1" Grid.Row="2" Margin="0,0,0,0" >
+                <Viewbox HorizontalAlignment="Left">
+                    <TextBox  Grid.Row="2" Grid.Column="1" IsReadOnly="True" Name="H1"  Margin="0,0,0,0" FontSize="20" TextAlignment="Center"/>
+                </Viewbox>
+            </Border>
+
+            <!--<TextBox  Grid.Row="2" Grid.Column="1" IsReadOnly="True" Name="H1" Text="0" Margin="0,0,0,0" FontSize="20" TextAlignment="Center" />-->
+
+
+            <Border VerticalAlignment="Center" Grid.ColumnSpan="31" Grid.Column="1" Grid.Row="3" Margin="0,0,0,0" >
+                <Viewbox HorizontalAlignment="Left">
+                    <TextBox x:Name="Output"  Grid.Column="1" Margin="0,0,0,0"  IsReadOnly="True"  TextAlignment="Center"   FontSize="20" />
+                </Viewbox>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>

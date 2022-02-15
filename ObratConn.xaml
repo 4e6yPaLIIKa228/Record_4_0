@@ -1,0 +1,13 @@
+﻿<Window x:Class="Record.ObratConn"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Record"
+        mc:Ignorable="d"
+        Title="ObratConn" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="BtMes" Content="Отправить" Margin="246,335,247,38" Click="BtMes_Click"/>
+        <TextBox  Name="mess"   Margin="24,44,38,133"/>
+    </Grid>
+</Window>

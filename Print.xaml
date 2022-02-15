@@ -1,0 +1,22 @@
+﻿<Window x:Class="Record.Print"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Record"
+        mc:Ignorable="d"
+        Title="Print" Height="550" Width="1000">
+    <Grid  x:Name="Printtt">
+        <Label x:Name="AppData" Content="DATA" HorizontalAlignment="Left" Margin="60,41,0,0" VerticalAlignment="Top" Width="160"/>
+        <Label x:Name="AppColvo" Content="ОБЩЕЕ КОЛ-ВО" HorizontalAlignment="Left" Margin="321,77,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.493,0.551"/>
+        <Label x:Name ="FIOIll" Content="Оттуствуют по болезни:" HorizontalAlignment="Left" Margin="60,160,0,0" VerticalAlignment="Top" Height="26" Width="160"/>
+        <Label x:Name="FIOAPP" Content="Оттуствуют по уважительной причине: " HorizontalAlignment="Left" Margin="240,160,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="AppPrechena" Content="Label" HorizontalAlignment="Left" Margin="240,209,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="AppBolen" Content="Label" HorizontalAlignment="Left" Margin="60,209,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="AppGroup" Content="Label" HorizontalAlignment="Left" Margin="352,114,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="FIOН" Content="Оттуствуют по неуважительной причине: " HorizontalAlignment="Left" Margin="500,160,0,0" VerticalAlignment="Top" Width="250"/>
+        <Label x:Name="AppН" Content="Label" HorizontalAlignment="Left" Margin="500,209,0,0" VerticalAlignment="Top"/>
+
+
+    </Grid>
+</Window>
